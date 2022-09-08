@@ -1,0 +1,7 @@
+node_modules/
+secrets.env
+docs
+coverage
+docker-compose.yml
+#SECRETS
+.env
